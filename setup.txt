@@ -1,0 +1,4 @@
+Running the System
+1) Set up the MySQL database with the SQL code provided.
+2) Compile and run the Java application.
+3) Use the console menu to interact with the banking system.
