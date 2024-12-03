@@ -1,0 +1,18 @@
+<header>
+    <h1>Welcome, [User's Name]</h1>
+</header>
+<nav>
+    <button id="depositBtn">Deposit</button>
+    <button id="withdrawBtn">Withdraw</button>
+    <button id="transferBtn">Transfer</button>
+    <button id="logoutBtn">Logout</button>
+</nav>
+<section>
+    <h2>Account Balance: $[Balance]</h2>
+    <h3>Recent Transactions</h3>
+    <ul>
+        <li>[Transaction 1]</li>
+        <li>[Transaction 2]</li>
+        <!-- Add dynamically -->
+    </ul>
+</section>
